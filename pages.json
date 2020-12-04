@@ -1,0 +1,20 @@
+{
+	"pages": [
+		{
+			"path": "pages/test/test",
+			"style": {
+				"navigationBarTitleText": "测试海报例子",
+				"app-plus": {
+					"titleNView": false,
+					"bounce": "none"
+				}
+			}
+		} 
+	],
+	"globalStyle": {
+		"navigationBarTextStyle": "black",
+		"navigationBarTitleText": "rCanvas插件",
+		"navigationBarBackgroundColor": "#F8F8F8",
+		"backgroundColor": "#F8F8F8"
+	}
+}
