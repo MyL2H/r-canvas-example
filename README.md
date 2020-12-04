@@ -5,6 +5,10 @@
 ### r-canvas兼容性
 此插件适应所有手机屏幕，也适用于ios、android、微信小程序、h5等平台（已经过测试），其它端还请开发者们自行测试，因为是基于canvas原生函数的二次封装，所以其他端应该正常能用（其它端能否使用欢迎留言反馈）！
 
+### r-canvas示例
+码云地址：[https://gitee.com/citn/r-canvas-example](https://gitee.com/citn/r-canvas-example)
+github地址：[https://github.com/MyL2H/r-canvas-example](https://github.com/MyL2H/r-canvas-example)
+
 ### r-canvas借助第三方插件
 r-canvas解决了画图片的兼容性，支持的图片路径有：</br>
 1、本地图片路径（示例：“/static/ercode.png”）</br>
