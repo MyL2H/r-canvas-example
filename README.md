@@ -117,7 +117,7 @@ onLoad(){
 | text_align | left | String | 否 | 文字对齐方式</br>left:居左</br>center:居中</br>right:居右
 | line_through | false | Boolean | 否 | 是否给文字添加中划线
 | max_width |  | Number | 否 | 文字到达最大宽度，会自动换行
-| line-height | 20 | Number | 否 | 文字行高，设置max_width属性才能生效
+| line_height | 20 | Number | 否 | 文字行高，设置max_width属性才能生效
 
 #### drawSpecialText方法说明
 |  属性名   | 默认值 | 类型 | 是否必填 | 说明
